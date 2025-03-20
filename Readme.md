@@ -1,6 +1,6 @@
-# FWE WS 24/25 Project
+# ShopEsy 
 
-## Shopping List - Shopping Article Website
+## A Shopping List - Shopping Article Website
 
 ![alt text](frontend-FWE-WS-2425-1118070/frontend/frontend-documentation/images/ezgif.com-animated-gif-maker(3).gif)
 
