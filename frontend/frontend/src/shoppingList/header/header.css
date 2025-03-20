@@ -1,0 +1,120 @@
+.headerFirstpart{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-top:30px
+}
+
+.headerStructure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:30px
+}
+
+.search{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+}
+
+.formContentArrangement{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+}
+.searchBar{
+    width:50em;
+    border-radius: 20px 0px  0px 20px;
+   
+    height:40px;
+}
+
+.search select{
+    height: 45px;
+    border-radius: 0px 20px  20px 0px;
+   
+}
+
+.searchButton{
+    height:49px;
+    width: 10rem;
+}
+
+
+.searchButton{
+    height:40px;
+    font-size:1rem;
+    border-radius: 15px;
+    background-color:yellow
+}
+
+.searchButton:hover{
+
+    background-color: rgb(250, 59, 1);}
+
+.headerButton{
+    border-radius: 20px;
+    height: 25px;
+    background-color: rgb(247, 207, 106);
+}
+
+.listName{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+
+.listName input{
+    color: #000;
+}
+
+.createList{
+    background-color:greenyellow;
+    height: 40px;
+    width: 90px;
+}
+
+.deleteAllButton{
+    background-color: red;
+    color: antiquewhite;
+    height: 30px;
+}
+
+.deleteThisButton{
+    background-color: rgb(218, 13, 13);
+    color: aliceblue;
+    height: 30px;
+
+}
+
+.listPop{
+    margin-top: 30px;
+}
+
+select{
+    border-radius: 20px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid black;
+
+}
+
+.listName{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.viewButton{
+    height: 30px;
+}

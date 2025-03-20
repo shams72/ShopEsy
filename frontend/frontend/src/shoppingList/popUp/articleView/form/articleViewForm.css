@@ -1,0 +1,12 @@
+#submitButton{
+    height: 30px;
+    background-color: green;
+    margin-left: 5px;
+}
+
+#submitButton:hover {
+    background-color: yellow; /* Darker shade on hover */
+    color: green; /* Change text color on hover */
+    cursor: pointer; /* Change cursor to pointer */
+    transform: scale(1.05); /* Slightly enlarge the button */
+}

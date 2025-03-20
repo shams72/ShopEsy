@@ -1,0 +1,138 @@
+.viewAddArticles{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: #00000090;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.arrangeAddForms{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+}
+
+.arrangeContents{
+    background-color: aliceblue;
+}
+
+label{
+    text-align: left;
+
+}
+
+.adjustEditButtons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.arrangeDescription{
+    border-radius: 0px;
+    padding: 0px;
+    height: 100px;
+    padding: 0; /* Reset padding */
+    text-align: left; /* Ensure text is aligned to the left */
+    vertical-align: top; /* Align the text to the top */
+
+}
+
+
+.roundedButtons{
+    border-radius: 20px;
+   
+}
+
+.adjustButtons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.roundedButtons{
+    height: 30px;
+}
+
+.saveButtons{
+    height: 30px;
+
+}
+
+.arrangeCreateArticleForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.error-message {
+    color: red;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .formField {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .formField label {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .formField input,
+  .formField textarea {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .arrangeDescription {
+    height: 100px;
+    resize: vertical;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+  }
+  
+  .saveButtons {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .roundedButtons {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .saveButtons:hover,
+  .roundedButtons:hover {
+    opacity: 0.9;
+  }
+  

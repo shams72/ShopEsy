@@ -1,0 +1,33 @@
+.pageStructure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.linkNav a {
+    text-decoration: none;
+    font-size: 1em;
+    color: rgb(17, 111, 114);
+    background-color: #f0f0f0;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.linkNav a:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.linkNav a:active {
+    background-color: #388E3C;
+    color: white;
+}

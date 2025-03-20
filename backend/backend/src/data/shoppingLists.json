@@ -1,0 +1,302 @@
+{
+  "shoppingLists": [
+    {
+      "name": "Fitness Gear",
+      "description": "Items for fitness and wellness",
+      "creationDate": "2024-12-01T10:30:00.000Z",
+      "items": [
+        {
+          "name": "Running Shoes",
+          "description": "Lightweight running shoes for daily jogging.",
+          "amount": 80
+        },
+        {
+          "name": "Yoga Mat",
+          "description": "Eco-friendly non-slip yoga mat.",
+          "amount": 30
+        },
+        {
+          "name": "Protein Powder",
+          "description": "High-quality whey protein for fitness enthusiasts.",
+          "amount": 50
+        },
+        {
+          "name": "Water Bottle",
+          "description": "Reusable stainless steel water bottle.",
+          "amount": 20
+        },
+        {
+          "name": "Headphones",
+          "description": "Over-ear headphones with active noise cancellation.",
+          "amount": 250
+        }
+      ]
+    },
+    {
+      "name": "Work Essentials",
+      "description": "Items for a productive work environment",
+      "creationDate": "2024-12-01T11:00:00.000Z",
+      "items": [
+        {
+          "name": "Laptop",
+          "description": "High-performance laptop for work and gaming.",
+          "amount": 1500
+        },
+        {
+          "name": "Keyboard",
+          "description": "Compact wireless keyboard with backlit keys.",
+          "amount": 70
+        },
+        {
+          "name": "Desk Chair",
+          "description": "Ergonomic desk chair for office use.",
+          "amount": 120
+        },
+        {
+          "name": "LED Desk Lamp",
+          "description": "Adjustable LED lamp with multiple brightness levels.",
+          "amount": 40
+        },
+        {
+          "name": "Bookshelf",
+          "description": "Modern wooden bookshelf with five tiers.",
+          "amount": 200
+        }
+      ]
+    },
+    {
+      "name": "Kitchen Basics",
+      "description": "Essentials for the kitchen",
+      "creationDate": "2024-12-01T11:30:00.000Z",
+      "items": [
+        {
+          "name": "Electric Kettle",
+          "description": "1.5L stainless steel electric kettle.",
+          "amount": 45
+        },
+        {
+          "name": "Knife Set",
+          "description": "High-quality stainless steel kitchen knives.",
+          "amount": 75
+        },
+        {
+          "name": "Instant Pot",
+          "description": "Multi-functional pressure cooker.",
+          "amount": 110
+        },
+        {
+          "name": "Coffee Beans",
+          "description": "Freshly roasted Arabica coffee beans.",
+          "amount": 25
+        },
+        {
+          "name": "Water Bottle",
+          "description": "Reusable stainless steel water bottle.",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Tech Gadgets",
+      "description": "Latest tech gadgets for convenience",
+      "creationDate": "2024-12-01T12:00:00.000Z",
+      "items": [
+        {
+          "name": "Smartphone",
+          "description": "Latest model smartphone with advanced features.",
+          "amount": 999
+        },
+        {
+          "name": "Speaker",
+          "description": "Portable Bluetooth speaker with powerful sound.",
+          "amount": 60
+        },
+        {
+          "name": "Headphones",
+          "description": "Over-ear headphones with active noise cancellation.",
+          "amount": 250
+        },
+        {
+          "name": "Keyboard",
+          "description": "Compact wireless keyboard with backlit keys.",
+          "amount": 70
+        },
+        {
+          "name": "LED Desk Lamp",
+          "description": "Adjustable LED lamp with multiple brightness levels.",
+          "amount": 40
+        },
+        {
+          "name": "Laptop",
+          "description": "High-performance laptop for work and gaming.",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Winter Wear",
+      "description": "Clothing for cold weather",
+      "creationDate": "2024-12-01T12:30:00.000Z",
+      "items": [
+        {
+          "name": "Winter Jacket",
+          "description": "Insulated jacket for extreme cold weather.",
+          "amount": 120
+        },
+        {
+          "name": "Running Shoes",
+          "description": "Lightweight running shoes for daily jogging.",
+          "amount": 80
+        },
+        {
+          "name": "Yoga Mat",
+          "description": "Eco-friendly non-slip yoga mat.",
+          "amount": 30
+        },
+        {
+          "name": "Water Bottle",
+          "description": "Reusable stainless steel water bottle.",
+          "amount": 20
+        },
+        {
+          "name": "Speaker",
+          "description": "Portable Bluetooth speaker with powerful sound.",
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "name": "Home Comforts",
+      "description": "Enhancing home comfort",
+      "creationDate": "2024-12-01T13:00:00.000Z",
+      "items": [
+        {
+          "name": "Desk Chair",
+          "description": "Ergonomic desk chair for office use.",
+          "amount": 120
+        },
+        {
+          "name": "Bookshelf",
+          "description": "Modern wooden bookshelf with five tiers.",
+          "amount": 200
+        },
+        {
+          "name": "Vacuum Cleaner",
+          "description": "Cordless vacuum cleaner with powerful suction.",
+          "amount": 180
+        },
+        {
+          "name": "Air Purifier",
+          "description": "Compact air purifier with HEPA filter.",
+          "amount": 150
+        },
+        {
+          "name": "LED Desk Lamp",
+          "description": "Adjustable LED lamp with multiple brightness levels.",
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "Healthy Living",
+      "description": "Items for a healthier lifestyle",
+      "creationDate": "2024-12-01T13:30:00.000Z",
+      "items": [
+        {
+          "name": "Organic Almonds",
+          "description": "A pack of premium organic almonds.",
+          "amount": 20
+        },
+        {
+          "name": "Protein Powder",
+          "description": "High-quality whey protein for fitness enthusiasts.",
+          "amount": 50
+        },
+        {
+          "name": "Coffee Beans",
+          "description": "Freshly roasted Arabica coffee beans.",
+          "amount": 25
+        },
+        {
+          "name": "Yoga Mat",
+          "description": "Eco-friendly non-slip yoga mat.",
+          "amount": 30
+        },
+        {
+          "name": "Water Bottle",
+          "description": "Reusable stainless steel water bottle.",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Outdoor Adventures",
+      "description": "Gearing up for outdoor activities",
+      "creationDate": "2024-12-01T14:00:00.000Z",
+      "items": [
+        {
+          "name": "Running Shoes",
+          "description": "Lightweight running shoes for daily jogging.",
+          "amount": 80
+        },
+        {
+          "name": "Winter Jacket",
+          "description": "Insulated jacket for extreme cold weather.",
+          "amount": 120
+        },
+        {
+          "name": "Water Bottle",
+          "description": "Reusable stainless steel water bottle.",
+          "amount": 20
+        },
+        {
+          "name": "Smartphone",
+          "description": "Latest model smartphone with advanced features.",
+          "amount": 999
+        },
+        {
+          "name": "Speaker",
+          "description": "Portable Bluetooth speaker with powerful sound.",
+          "amount": 60
+        },
+        {
+          "name": "Laptop",
+          "description": "High-performance laptop for work and gaming.",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Kitchen Upgrades",
+      "description": "Modern tools for the kitchen",
+      "creationDate": "2024-12-01T14:30:00.000Z",
+      "items": [
+        {
+          "name": "Electric Kettle",
+          "description": "1.5L stainless steel electric kettle.",
+          "amount": 45
+        },
+        {
+          "name": "Knife Set",
+          "description": "High-quality stainless steel kitchen knives.",
+          "amount": 75
+        },
+        {
+          "name": "Instant Pot",
+          "description": "Multi-functional pressure cooker.",
+          "amount": 110
+        },
+        {
+          "name": "Coffee Beans",
+          "description": "Freshly roasted Arabica coffee beans.",
+          "amount": 25
+        },
+        {
+          "name": "Water Bottle",
+          "description": "Reusable stainless steel water bottle.",
+          "amount": 20
+        }
+      ]
+    }
+  ]
+}

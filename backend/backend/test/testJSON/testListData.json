@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sample List 1",
+    "description": "Electronics and essentials.",
+    "creationDate": "2024-11-05T19:26:41.047Z",
+    "items": [
+      {
+        "name": "4K TV",
+        "description": "65-inch 4K UHD TV.",
+        "amount": 50
+      },
+      {
+        "name": "Olive Oil",
+        "description": "Extra virgin olive oil.",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Sample List 2",
+    "description": "Basic living room electronics.",
+    "creationDate": "2024-11-05T19:30:37.668Z",
+    "items": [
+      {
+        "name": "4K TV",
+        "description": "65-inch 4K UHD Smart TV.",
+        "amount": 50
+      }
+    ]
+  }, {
+    "name": "",
+    "description": "Electronics and essentials.",
+    "creationDate": "2024-11-05T19:26:41.047Z",
+    "items": [
+      {
+        "name": "4K TV",
+        "description": "65-inch 4K UHD TV.",
+        "amount": 50
+      },
+      {
+        "name": "Olive Oil",
+        "description": "Extra virgin olive oil.",
+        "amount": 5
+      }
+    ]
+  }
+]

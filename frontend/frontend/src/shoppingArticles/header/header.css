@@ -1,0 +1,39 @@
+.arrangeForms{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.noForm{
+    border-radius: 50px;
+    height: 20px;
+    margin: 20px;
+    height: 30px;
+}
+
+input{
+    border-radius: 50px ;
+    height: 20px;
+}
+
+
+.FormButton{
+    margin: 10px;
+    border-radius:20px ;
+    height: 30px;
+}
+
+
+
+.delete{
+    background-color: rgb(128, 0, 0);
+    color: white;
+}
+
+.addButton{
+    background-color: green;
+    color: white;
+    height: 40px;
+}

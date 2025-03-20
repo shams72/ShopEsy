@@ -1,0 +1,104 @@
+{
+  "shoppingArticles": [
+    {
+      "name": "Organic Almonds",
+      "description": "A pack of premium organic almonds.",
+      "amount": 19
+    },
+    {
+      "name": "Laptop",
+      "description": "High-performance laptop for work and gaming.",
+      "amount": 1489
+    },
+    {
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes for daily jogging.",
+      "amount": 79
+    },
+    {
+      "name": "Coffee Beans",
+      "description": "Freshly roasted Arabica coffee beans.",
+      "amount": 24
+    },
+    {
+      "name": "Yoga Mat",
+      "description": "Eco-friendly non-slip yoga mat.",
+      "amount": 29
+    },
+    {
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced features.",
+      "amount": 998
+    },
+    {
+      "name": "Headphones",
+      "description": "Over-ear headphones with active noise cancellation.",
+      "amount": 249
+    },
+    {
+      "name": "Desk Chair",
+      "description": "Ergonomic desk chair for office use.",
+      "amount": 119
+    },
+    {
+      "name": "Knife Set",
+      "description": "High-quality stainless steel kitchen knives.",
+      "amount": 74
+    },
+    {
+      "name": "LED Desk Lamp",
+      "description": "Adjustable LED lamp with multiple brightness levels.",
+      "amount": 39
+    },
+    {
+      "name": "Bookshelf",
+      "description": "Modern wooden bookshelf with five tiers.",
+      "amount": 199
+    },
+    {
+      "name": "Electric Kettle",
+      "description": "1.5L stainless steel electric kettle.",
+      "amount": 44
+    },
+    {
+      "name": "Speaker",
+      "description": "Portable Bluetooth speaker with powerful sound.",
+      "amount": 59
+    },
+    {
+      "name": "Instant Pot",
+      "description": "Multi-functional pressure cooker.",
+      "amount": 109
+    },
+    {
+      "name": "Protein Powder",
+      "description": "High-quality whey protein for fitness enthusiasts.",
+      "amount": 49
+    },
+    {
+      "name": "Winter Jacket",
+      "description": "Insulated jacket for extreme cold weather.",
+      "amount": 119
+    },
+    {
+      "name": "Keyboard",
+      "description": "Compact wireless keyboard with backlit keys.",
+      "amount": 69
+    },
+    {
+      "name": "Vacuum Cleaner",
+      "description": "Cordless vacuum cleaner with powerful suction.",
+      "amount": 179
+    },
+    {
+      "name": "Air Purifier",
+      "description": "Compact air purifier with HEPA filter.",
+      "amount": 149
+    },
+    {
+      "name": "Water Bottle",
+      "description": "Reusable stainless steel water bottle.",
+      "amount": 19
+    }
+  ]
+}

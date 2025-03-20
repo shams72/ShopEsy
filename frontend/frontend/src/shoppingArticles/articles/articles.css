@@ -1,0 +1,145 @@
+.adjustView{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.articleContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+  
+.articleHeader, .articleRow {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+}
+  
+.articleHeader {
+    font-weight: bold;
+    background-color: #f9f9f9;
+}
+  
+.articleRow {
+    align-items: center;
+}
+  
+.articleColumn, .articleCell {
+    flex: 1;
+    padding: 10px;
+    text-align: left;
+    border: 2px solid black;
+    height: 50px;
+    width: 280px;
+}
+  
+.adjustSpace {
+    display: flex;
+    gap: 10px;
+}
+  
+.editRow {
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+  
+
+
+
+button:hover {
+    background-color: #0056b3;
+    color: white;           
+}
+
+.adjustSpace{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.articleDelete{
+    border-radius:20px ;
+    width: 80px;
+    height: 30px;    
+    color: white;
+    background-color: red;
+
+}
+
+.articleEdit{
+    border-radius:20px ;
+    width: 80px;
+    color: black;
+    height: 30px;
+    background-color: yellow;
+    
+}
+
+.saveButton{
+    border-radius:20px ;
+    width: 103px;
+    color: white;
+    height: 30px;
+    background-color: Green;
+}
+
+.cancelButton{
+    border-radius:20px ;
+    width: 80px;
+    color: white;
+    height: 30px;
+    background-color: red;
+
+}
+
+.editColumns{
+}
+
+.editButtons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 0px;
+  }
+
+.handleEdit{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px ;    
+}
+
+
+.handleEdit td{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-color:white ;
+    gap: 45px ;    
+}
+
+.editButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.adjustButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+}
