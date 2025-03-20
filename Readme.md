@@ -25,5 +25,5 @@ This project involves creating a shopping list website with the following featur
 
 ### Documentation
 
-- [Click here to get Started and to view the Documentation for Backend](backend-FWE-WS-2425-1118070/backend/readme.md)  
-- [Click here to get Started and to view the Documentation for Frontend](frontend-FWE-WS-2425-1118070/frontend/README.md)
+- [Click here to get Started and to view the Documentation for Backend](backend/backend/readme.md)  
+- [Click here to get Started and to view the Documentation for Frontend](frontend/frontend/README.md)
